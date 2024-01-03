@@ -1,4 +1,5 @@
-# ![](https://raw.githubusercontent.com/efransancheza/efrasancheza/main/laptop-1.png) Hola, mi nombre es Efraín Sanchez 👋
+![laptop](https://raw.githubusercontent.com/efrasancheza/efrasancheza/main/laptop-1.png)
+# Hola, mi nombre es Efraín Sanchez 👋
 ### Learning Full-Stack
 
 
