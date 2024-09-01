@@ -1,5 +1,5 @@
 ![laptop](https://raw.githubusercontent.com/efrasancheza/efrasancheza/main/laptop-1.png)
-# Hi! my mane is Efraín Sánchez 👋
+# Hi! my name is Efraín Sánchez 👋
 ### - 🌱 I’m currently learning ... JAVASCRIPT
 
 
