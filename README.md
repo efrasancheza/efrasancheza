@@ -1,6 +1,6 @@
 ![laptop](https://raw.githubusercontent.com/efrasancheza/efrasancheza/main/laptop-1.png)
 # Hola, mi nombre es Efraín Sanchez 👋
-### Learning Full-Stack
+### - 🌱 I’m currently learning ... JAVASCRIPT
 
 
 
